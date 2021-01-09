@@ -1,2 +1,3 @@
 # Sementic_ui_demo_1
-Created with CodeSandbox
+
+Created homepage for xpressdawa using sementic ui styling .
